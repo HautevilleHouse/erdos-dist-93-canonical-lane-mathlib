@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Erdős Distinct Distances (n=93) Lean 4 Proof Package"
+message: "If you use this Lean proof package, cite this repository and the source Canonical Lane manuscript."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-08-02
+repository-code: "https://github.com/HautevilleHouse/erdos-dist-93"
+url: "https://github.com/HautevilleHouse/erdos-dist-93"
+license: None
+keywords:
+  - "lean4"
+  - "formalization"
+  - "mathematical-proof"
+  - "canonical-lane"
+  - "reviewer-bridge"
+  - "erdos-dist-93"
+preferred-citation:
+  type: article
+  title: "The Erdős Distinct Distances (n=93)"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-08-02
